@@ -1,0 +1,2 @@
+;;; Generated package description from /home/user1/.emacs.d/elpa/malyon-20161208.2125/malyon.el  -*- no-byte-compile: t -*-
+(define-package "malyon" "20161208.2125" "mode to execute Z-code files version 3, 5, 8" '((cl-lib "0.5")) :commit "0d9882650720b4a791556f5e2d917388965d6fc0" :keywords '("games" "emulations") :authors '(("Peter Ilberg <peter.ilberg@gmail.com>, Christopher Madsen <cjm@cjmweb.net>, Erik Selberg" . "erik@selberg.org")) :maintainer '("Christopher Madsen <cjm@cjmweb.net>, Erik Selberg" . "erik@selberg.org") :url "https://github.com/speedenator/malyon")

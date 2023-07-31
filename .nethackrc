@@ -1,0 +1,8 @@
+OPTIONS=name=bikshan, pettype:dog, dogname:kukur
+OPTIONS=windowtype:curses, perm_invent, !autopickup, boulder=0, showexp, time, hilite_pile, lit_corridor, color, popup_dialog, force_invmenu, menucolors, statushilites:10, hitpointbar, mention_walls
+
+MENUCOLOR="blessed"=blue&bold
+MENUCOLOR="cursed"=red&underline
+MENUCOLOR="uncursed"=green
+
+MENUCOLOR="gold piece"=yellow

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: implies
+# key: <im
+# --
+\Rightarrow \;\; $0

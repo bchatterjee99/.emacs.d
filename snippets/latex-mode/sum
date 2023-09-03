@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: sum
+# key: <sum
+# --
+\Sigma_{${1:arg1}}^{${2:arg2}}

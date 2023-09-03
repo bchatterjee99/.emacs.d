@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: gcd
+# key: <gcd
+# --
+\text{GCD}(${1:arg1}, ${2:arg2})
